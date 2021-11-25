@@ -5,7 +5,7 @@
       { "id": 3, "value": "300" , "price": "109,50"}
     ],
     "fixPlans": [
-      { "id": 1, "name": "Ilimitado Fixo Brasil", "price": "49,99" }
+      { "id": 1, "value": "Ilimitado Fixo Brasil", "price": "49,99" }
     ],
     "tvPlans": [
         { "id": 1, "name": "Ultimate HD", "price": "299,99" },
