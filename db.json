@@ -8,8 +8,8 @@
       { "id": 1, "value": "Ilimitado Fixo Brasil", "price": "49,99" }
     ],
     "tvPlans": [
-        { "id": 1, "name": "Ultimate HD", "price": "299,99" },
-        { "id": 2, "name": "Full HD", "price": "178,45" }
+        { "id": 1, "value": "Ultimate HD", "price": "299,99" },
+        { "id": 2, "value": "Full HD", "price": "178,45" }
     ]
   }
   
