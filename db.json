@@ -1,15 +1,15 @@
 {
     "internetPlans": [
-      { "id": 1, "value": "100 MB", "price": 69.90, "type": "internet" },
-      { "id": 2, "value": "200 MB", "price": 99.75, "type": "internet" },
-      { "id": 3, "value": "300 MB" , "price": 109.50, "type": "internet"}
+      { "id": 1, "value": "100 MB", "price": "69.90", "type": "internet" },
+      { "id": 2, "value": "200 MB", "price": "99.75", "type": "internet" },
+      { "id": 3, "value": "300 MB" , "price": "109.50", "type": "internet"}
     ],
     "fixPlans": [
-      { "id": 1, "value": "Ilimitado Fixo Brasil", "price": 49.99,  "type": "fix" }
+      { "id": 1, "value": "Ilimitado Fixo Brasil", "price": "49.99",  "type": "fix" }
     ],
     "tvPlans": [
-        { "id": 1, "value": "Ultimate HD", "price": 299.99,  "type": "tv" },
-        { "id": 2, "value": "Full HD", "price": 178.45, "type": "tv" }
+        { "id": 1, "value": "Ultimate HD", "price": "299.99",  "type": "tv" },
+        { "id": 2, "value": "Full HD", "price": "178.45", "type": "tv" }
     ]
   }
   
