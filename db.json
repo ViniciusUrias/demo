@@ -9,7 +9,7 @@
     ],
     "tvPlans": [
         { "id": 1, "value": "Ultimate HD", "price": 299.99,  "type": "tv" },
-        { "id": 2, "value": "Full HD", "price": 178.45 , "type": "tv" }
+        { "id": 2, "value": "Full HD", "price": 178.45, "type": "tv" }
     ]
   }
   
